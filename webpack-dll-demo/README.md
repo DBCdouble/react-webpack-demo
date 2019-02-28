@@ -41,4 +41,4 @@ $ npm run build
 
 
 
-> 关于项目更详细的讲解请查看我的博客：**[使用 Webpack 的 DllPlugin 提升项目构建速度](https://juejin.im/post/5c665c6151882562986ce988)**
+> 关于项目更详细的讲解请查看我的博客：**[使用 Webpack 的 DllPlugin 提升项目构建速度](https://juejin.im/post/5c763885e51d457380771ab0)**

@@ -25,4 +25,4 @@ $ npm run build
 打开 `dist` 文件夹，在浏览器中打开 `index.html` 文件，既可在浏览器看到 蓝色居中 的 `Hello World` 文字。说明项目打包成功。
 
 
-关于项目更详细的讲解请查看我的博客：**[使用 Webpack 进行生产环境配置（附 Demo）](https://juejin.im/post/5c5407296fb9a049bb7cc4ee)**
+关于项目更详细的讲解请查看我的博客：**[使用 Webpack 进行生产环境配置（附 Demo）](https://juejin.im/post/5c763885e51d457380771ab0)**

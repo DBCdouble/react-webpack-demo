@@ -25,4 +25,4 @@ $ npm run build
 打开 `dist` 文件夹，在浏览器中打开 `index.html` 文件，既可在浏览器看到 蓝色居中 的 `Hello, Happypack` 文字。说明项目打包成功。项目运行没有问题。打开 webpack.config.js 文件，查看配置，可以看到 happypack 的各种用法以及配置。
 
 
-关于项目更详细的讲解请查看我的博客：**[使用 Happypack 提升 Webpack 项目构建速度](https://juejin.im/post/5c6e0c3a518825621f2a6f45)**
+关于项目更详细的讲解请查看我的博客：**[使用 Happypack 提升 Webpack 项目构建速度](https://juejin.im/post/5c763885e51d457380771ab0)**

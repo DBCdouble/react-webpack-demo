@@ -25,4 +25,4 @@ $ npm run start
 打开浏览器，输入：`http://localhost:8000`，既可在浏览器看到蓝色居中的 `Hello World` 文字。
 
 
-关于项目更详细的讲解请查看我的博客：**[从零开始搭建一个 Webpack 开发环境配置（附 Demo）](https://juejin.im/post/5c51520cf265da61180215e5)**
+关于项目更详细的讲解请查看我的博客：**[从零开始搭建一个 Webpack 开发环境配置（附 Demo）](https://juejin.im/post/5c763885e51d457380771ab0)**
